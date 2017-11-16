@@ -39,4 +39,4 @@ To do:
   
 Dream:
 
-  -Add graphics to show different colorings
+  - [ ] Add graphics to show different colorings
