@@ -25,7 +25,7 @@ is x*{(x-1)^4}*(x-2). Including all permutations of the colorings.
 
 So far:
 
-  - [ ] README.md - duh
+  - [x] README.md - duh
   - [ ] polyn.cpp - a polynomial class to multiply polynomials
   
 To do:
