@@ -6,13 +6,13 @@ A chromatic polynomial comes from a graph where the goal is to color the nodes o
 but adjecent nodes cannot be the same color.
 
 ex. 
-       (a) 0
-           |
-           |
-(g)0----(b)0-----(c)0
-          / \
-         /   \
-     (e)0--(f)0
+.       (a) 0
+.           |
+.           |
+.(g)0----(b)0-----(c)0
+.          / \
+.         /   \
+.     (e)0--(f)0
      
 if x represents the number of colors available to color the nodes the number of ways to color the graph 
 is x*{(x-1)^4}*(x-2). Including all permutations of the colorings.
