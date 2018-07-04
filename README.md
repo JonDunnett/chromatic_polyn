@@ -35,7 +35,7 @@ To do:
   - [ ] file_parser - read in a file to generate a graph from format where a->b represents an edge from node a to node b
                  each edge must be on its own line
                  
-  - [x] graph class - a class to hold the graph
+  - [ ] graph class - a class to hold the graph
   
   - [x] node class  - a class to represent nodes 
   
