@@ -28,16 +28,16 @@ is x*{(x-1)^4}*(x-2). Including all permutations of the colorings.
 So far:
 
   - [x] README.md - duh
-  - [ ] polyn.cpp - a polynomial class to multiply polynomials
+  - [x] polyn.cpp - a polynomial class to multiply polynomials
   
 To do:
 
   - [ ] file_parser - read in a file to generate a graph from format where a->b represents an edge from node a to node b
                  each edge must be on its own line
                  
-  - [ ] graph class - a class to hold the graph
+  - [x] graph class - a class to hold the graph
   
-  - [ ] node class  - a class to represent nodes 
+  - [x] node class  - a class to represent nodes 
   
 Dream:
 
